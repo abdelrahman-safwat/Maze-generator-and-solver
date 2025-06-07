@@ -1,0 +1,27 @@
+Exe is located with some dlls, make sure to run the exe with the dlls in the same folder
+While running the exe, you should see 2 things
+
+1) the console window
+2) the maze window
+
+----program should be run on 1080p displays----
+DO NOT TOUCH THE MAZE WINDOW, IT WILL FREEZE.
+
+the console window is just a command prompt.
+**The issue is, that in windows 11, the old command prompt was replaced
+by the new "terminal"**
+**skip to last paragraph for an important instruction**
+
+our code, moves the maze window to the right, which is successful in both win 10/11.
+
+The console window however, cant move. Since win 11 introduced their new terminal,
+resizing/moving the terminal does not work.
+This problem is well known, check this link for more info:
+https://github.com/microsoft/terminal/issues/5094
+
+It was intended that the terminal be moved to the left. Our code works on win 10.
+-> see main() line 1.
+
+Therefore, if you are running win11, please note that the terminal is NOT resized or moved.
+When running the program, make sure TO NOT TOUCH THE MAZE.
+***The non-resized terminal makes touching the maze more probable.****
