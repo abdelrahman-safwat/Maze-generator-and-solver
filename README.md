@@ -1,7 +1,7 @@
 # Maze Generator and Solver
 
 Contributers:
-Abdelrahman Ahmed Safwat\n
+Abdelrahman Ahmed Safwat
 Doha Bahaa eldin
 Kareem Abdelhameed
 Hamdi Awad
