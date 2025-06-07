@@ -2,13 +2,13 @@
 
 ## Contributers:
 
-Abdelrahman Ahmed Safwat
+- Abdelrahman Safwat
 
-Doha Bahaa eldin
+- Doha Bahaa eldin
 
-Kareem Abdelhameed
+- Kareem Abdelhameed
 
-Hamdi Awad
+- Hamdi Awad
 
 ## Brief Description
 
