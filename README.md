@@ -1,6 +1,6 @@
 # Maze Generator and Solver
 
-Contributers:
+- Contributers:
 
 Abdelrahman Ahmed Safwat
 
